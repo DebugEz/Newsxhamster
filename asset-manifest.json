@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Newsxhamster/static/css/main.073c9b0a.css",
+    "main.js": "/Newsxhamster/static/js/main.2a7eeb97.js",
+    "static/js/787.6c5ab8c3.chunk.js": "/Newsxhamster/static/js/787.6c5ab8c3.chunk.js",
+    "index.html": "/Newsxhamster/index.html",
+    "main.073c9b0a.css.map": "/Newsxhamster/static/css/main.073c9b0a.css.map",
+    "main.2a7eeb97.js.map": "/Newsxhamster/static/js/main.2a7eeb97.js.map",
+    "787.6c5ab8c3.chunk.js.map": "/Newsxhamster/static/js/787.6c5ab8c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2a7eeb97.js"
+  ]
+}
